@@ -5,5 +5,8 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="Python Projects" />
+    <orderEntry type="module" module-name="Sp23_SentimentAnalysis" />
+    <orderEntry type="module" module-name="MVP Ventures" />
+    <orderEntry type="module" module-name="deep-learning-sp23" />
   </component>
 </module>

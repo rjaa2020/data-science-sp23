@@ -5,9 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f9855b28-2251-4b4d-bab3-79ce8b7c4acb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive - Pomona College/MVP Ventures/midas/lightspeed_midas_data_3_24_23.csv" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive - Pomona College/MVP Ventures/midas/lightspeed_series_a.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Data Science.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Data Science.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Deep Learning/Sp23_SentimentAnalysis/Sentiment_Analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Deep Learning/Sp23_SentimentAnalysis/Sentiment_Analysis.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Deep Learning/deep-learning-sp23/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Deep Learning/deep-learning-sp23/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$USER_HOME$/OneDrive - Pomona College/MVP Ventures/.idea/.name" beforeDir="false" afterPath="$USER_HOME$/OneDrive - Pomona College/MVP Ventures/.idea/.name" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +25,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="Jupyter Notebook" />
       </list>
     </option>
   </component>
@@ -28,7 +36,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2MyTDFKvVzQrURh9NwH0haz9yHo" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -36,15 +44,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/rahul/Documents/Python Projects"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/rahul/OneDrive - Pomona College/MVP Ventures&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">

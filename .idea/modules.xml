@@ -3,7 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Data Science.iml" filepath="$PROJECT_DIR$/.idea/Data Science.iml" />
+      <module fileurl="file://$USER_HOME$/OneDrive - Pomona College/MVP Ventures/.idea/MVP Ventures.iml" filepath="$USER_HOME$/OneDrive - Pomona College/MVP Ventures/.idea/MVP Ventures.iml" />
       <module fileurl="file://$USER_HOME$/Documents/Python Projects/.idea/Python Projects.iml" filepath="$USER_HOME$/Documents/Python Projects/.idea/Python Projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Deep Learning/Sp23_SentimentAnalysis/.idea/Sp23_SentimentAnalysis.iml" filepath="$PROJECT_DIR$/../Deep Learning/Sp23_SentimentAnalysis/.idea/Sp23_SentimentAnalysis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Deep Learning/deep-learning-sp23/.idea/deep-learning-sp23.iml" filepath="$PROJECT_DIR$/../Deep Learning/deep-learning-sp23/.idea/deep-learning-sp23.iml" />
     </modules>
   </component>
 </project>
