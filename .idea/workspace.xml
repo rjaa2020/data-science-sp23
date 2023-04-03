@@ -5,15 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f9855b28-2251-4b4d-bab3-79ce8b7c4acb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change afterPath="$USER_HOME$/OneDrive - Pomona College/MVP Ventures/midas/lightspeed_midas_data_3_24_23.csv" afterDir="false" />
       <change afterPath="$USER_HOME$/OneDrive - Pomona College/MVP Ventures/midas/lightspeed_series_a.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Data Science.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Data Science.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW03/rahul_HW3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/HW03/rahul_HW3.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Deep Learning/Sp23_SentimentAnalysis/Sentiment_Analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Deep Learning/Sp23_SentimentAnalysis/Sentiment_Analysis.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Deep Learning/deep-learning-sp23/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Deep Learning/deep-learning-sp23/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$USER_HOME$/OneDrive - Pomona College/MVP Ventures/.idea/.name" beforeDir="false" afterPath="$USER_HOME$/OneDrive - Pomona College/MVP Ventures/.idea/.name" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
