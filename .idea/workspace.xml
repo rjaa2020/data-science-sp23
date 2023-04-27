@@ -5,12 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f9855b28-2251-4b4d-bab3-79ce8b7c4acb" name="Changes" comment="">
-      <change afterPath="$USER_HOME$/OneDrive - Pomona College/MVP Ventures/midas/lightspeed_midas_data_3_24_23.csv" afterDir="false" />
-      <change afterPath="$USER_HOME$/OneDrive - Pomona College/MVP Ventures/midas/lightspeed_series_a.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Project/hate_speech_vectorizer.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW03/rahul_HW3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/HW03/rahul_HW3.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Deep Learning/Sp23_SentimentAnalysis/Sentiment_Analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Deep Learning/Sp23_SentimentAnalysis/Sentiment_Analysis.ipynb" afterDir="false" />
-      <change beforePath="$USER_HOME$/OneDrive - Pomona College/MVP Ventures/.idea/.name" beforeDir="false" afterPath="$USER_HOME$/OneDrive - Pomona College/MVP Ventures/.idea/.name" afterDir="false" />
+      <change beforePath="$USER_HOME$/OneDrive - Pomona College/MVP Ventures/funding_prediction/funding_prediction.ipynb" beforeDir="false" afterPath="$USER_HOME$/OneDrive - Pomona College/MVP Ventures/funding_prediction/funding_prediction.ipynb" afterDir="false" />
+      <change beforePath="$USER_HOME$/OneDrive - Pomona College/MVP Ventures/funding_prediction/read_preprocessed.ipynb" beforeDir="false" afterPath="$USER_HOME$/OneDrive - Pomona College/MVP Ventures/funding_prediction/read_preprocessed.ipynb" afterDir="false" />
+      <change beforePath="$USER_HOME$/OneDrive - Pomona College/MVP Ventures/funding_prediction/transpose_funding_activities.ipynb" beforeDir="false" afterPath="$USER_HOME$/OneDrive - Pomona College/MVP Ventures/funding_prediction/transpose_funding_activities.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +47,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/rahul/OneDrive - Pomona College/MVP Ventures&quot;
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/rahul/OneDrive - Pomona College/MVP Ventures/funding_prediction&quot;
   }
 }</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
