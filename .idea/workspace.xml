@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f9855b28-2251-4b4d-bab3-79ce8b7c4acb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Final Project/hate_speech_vectorizer.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Deep Learning/Sp23_SentimentAnalysis/Sentiment_Analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Deep Learning/Sp23_SentimentAnalysis/Sentiment_Analysis.ipynb" afterDir="false" />
       <change beforePath="$USER_HOME$/OneDrive - Pomona College/MVP Ventures/funding_prediction/funding_prediction.ipynb" beforeDir="false" afterPath="$USER_HOME$/OneDrive - Pomona College/MVP Ventures/funding_prediction/funding_prediction.ipynb" afterDir="false" />
