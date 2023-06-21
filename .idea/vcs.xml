@@ -2,6 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Final_Project" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../Deep Learning/Sp23_SentimentAnalysis" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../Deep Learning/deep-learning-sp23" vcs="Git" />
     <mapping directory="$USER_HOME$/OneDrive - Pomona College/MVP Ventures" vcs="Git" />

@@ -5,11 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f9855b28-2251-4b4d-bab3-79ce8b7c4acb" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final_Project/preprocessing.py" beforeDir="false" afterPath="$PROJECT_DIR$/Final_Project/preprocessing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final_Project/result.py" beforeDir="false" afterPath="$PROJECT_DIR$/Final_Project/result.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Deep Learning/Sp23_SentimentAnalysis/Sentiment_Analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Deep Learning/Sp23_SentimentAnalysis/Sentiment_Analysis.ipynb" afterDir="false" />
-      <change beforePath="$USER_HOME$/OneDrive - Pomona College/MVP Ventures/funding_prediction/funding_prediction.ipynb" beforeDir="false" afterPath="$USER_HOME$/OneDrive - Pomona College/MVP Ventures/funding_prediction/funding_prediction.ipynb" afterDir="false" />
-      <change beforePath="$USER_HOME$/OneDrive - Pomona College/MVP Ventures/funding_prediction/read_preprocessed.ipynb" beforeDir="false" afterPath="$USER_HOME$/OneDrive - Pomona College/MVP Ventures/funding_prediction/read_preprocessed.ipynb" afterDir="false" />
-      <change beforePath="$USER_HOME$/OneDrive - Pomona College/MVP Ventures/funding_prediction/transpose_funding_activities.ipynb" beforeDir="false" afterPath="$USER_HOME$/OneDrive - Pomona College/MVP Ventures/funding_prediction/transpose_funding_activities.ipynb" afterDir="false" />
+      <change beforePath="$USER_HOME$/OneDrive - Pomona College/MVP Ventures/.idea/.name" beforeDir="false" afterPath="$USER_HOME$/OneDrive - Pomona College/MVP Ventures/.idea/.name" afterDir="false" />
+      <change beforePath="$USER_HOME$/OneDrive - Pomona College/MVP Ventures/funding_prediction/funding_prediction.ipynb" beforeDir="false" />
+      <change beforePath="$USER_HOME$/OneDrive - Pomona College/MVP Ventures/funding_prediction/read_preprocessed.ipynb" beforeDir="false" />
+      <change beforePath="$USER_HOME$/OneDrive - Pomona College/MVP Ventures/funding_prediction/transpose_funding_activities.ipynb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +29,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Final_Project" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
